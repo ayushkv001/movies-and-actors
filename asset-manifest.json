@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movies-and-actors/static/css/main.b7717f4a.css",
+    "main.js": "/movies-and-actors/static/js/main.efe24ef0.js",
+    "static/media/not_found.png": "/movies-and-actors/static/media/not_found.df8eb5b0c80608423a79.png",
+    "index.html": "/movies-and-actors/index.html",
+    "main.b7717f4a.css.map": "/movies-and-actors/static/css/main.b7717f4a.css.map",
+    "main.efe24ef0.js.map": "/movies-and-actors/static/js/main.efe24ef0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7717f4a.css",
+    "static/js/main.efe24ef0.js"
+  ]
+}
